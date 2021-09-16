@@ -1,5 +1,5 @@
 // Grupparbeiten
-
+// Toros
 import java.util.Scanner;
 public class Kalkylator {
 

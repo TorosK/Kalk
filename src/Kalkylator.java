@@ -1,3 +1,5 @@
+// Grupparbeiten
+
 import java.util.Scanner;
 public class Kalkylator {
 

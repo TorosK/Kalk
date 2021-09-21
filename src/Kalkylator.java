@@ -6,7 +6,7 @@
 //Julius, Toros, Erkan, Sahra
 //2021-09-17
 //2021-09-20 lägger till kommentarer
-//Nu går detta att pusha
+//Nu går detta att pusha hihi
 
 import java.util.Scanner;
 
